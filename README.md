@@ -1,4 +1,4 @@
 # ruby_project
 My first Ruby project on GitHub
 
-I love :pizza:.
+I love :pizza: and :coffee:.
